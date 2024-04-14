@@ -1,0 +1,54 @@
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\bin\Debug\Bank_Database.mdf
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\bin\Debug\Bank_Database_log.ldf
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe.config
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\bin\Debug\Banking System Project.pdb
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Customer_reg.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Dashboard.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Deposit.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Employee.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Form1.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Properties.Resources.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Customer.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Employee.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Withdraw.resources
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csproj.GenerateResource.Cache
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.exe
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.pdb
+C:\Users\sofsyst\Documents\Visual Studio 2010\Projects\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csprojResolveAssemblyReference.cache
+G:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe.config
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.exe
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.pdb
+G:\Banking System Project\Banking System Project\bin\Debug\Bank_Database.mdf
+G:\Banking System Project\Banking System Project\bin\Debug\Bank_Database_log.ldf
+G:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe
+G:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.pdb
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csprojResolveAssemblyReference.cache
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Customer_reg.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Dashboard.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Deposit.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Employee.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Form1.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Properties.Resources.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Customer.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Employee.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Withdraw.resources
+G:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csproj.GenerateResource.Cache
+D:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe.config
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.exe
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.pdb
+D:\Banking System Project\Banking System Project\bin\Debug\Bank_Database.mdf
+D:\Banking System Project\Banking System Project\bin\Debug\Bank_Database_log.ldf
+D:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.exe
+D:\Banking System Project\Banking System Project\bin\Debug\Banking System Project.pdb
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csprojResolveAssemblyReference.cache
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Customer_reg.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Dashboard.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Deposit.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Employee.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Form1.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Properties.Resources.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Customer.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.View_Employee.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking_System_Project.Withdraw.resources
+D:\Banking System Project\Banking System Project\obj\x86\Debug\Banking System Project.csproj.GenerateResource.Cache
